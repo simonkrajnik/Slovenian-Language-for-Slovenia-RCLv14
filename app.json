@@ -1,0 +1,28 @@
+{
+  "id": "28de131c-7ae5-440f-8513-f7b51be12180",
+  "name": "Slovenian Language for Slovenia",
+  "publisher": "Adacta d.o.o.",
+  "version": "14.0.29557.2023021301",
+  "brief": "",
+  "description": "Slovenian Language for Slovenia RCL",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "13.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
